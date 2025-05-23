@@ -1,0 +1,9 @@
+alacritty xorg-xinput nitrogen neovim alsa-utils picom bpytop python-psutil ttf-jetbrains-mono-nerd rofi thunar gvfs git unzip tar bluez gnome-keyring discord pqiv maim python-iwlib python-dbus-fast iwd zsh, xclip, impala, bluetui
+
+AUR:
+chrome minecraft qtile-extras
+
+Post intall:
+make qtile startup executable
+run zsh for humans
+enable bluetooth, iwd, systemd-networkd, systemd-resolved
